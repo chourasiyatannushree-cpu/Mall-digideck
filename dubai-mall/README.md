@@ -21,7 +21,7 @@ https://mall-digideck-vf77-656ppeeyj-chourasiyatannushree-cpus-projects.vercel.a
 Add your GitHub repo link here:
 
 ```text
-https://github.com/
+https://github.com/chourasiyatannushree-cpu/Mall-digideck
 ```
 
 ---
@@ -81,7 +81,7 @@ This project transforms that process into an immersive interactive experience th
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dubai-mall-digideck.git
+git clone https://github.com/https://github.com/chourasiyatannushree-cpu/Mall-digideck
 ```
 
 Move into project folder:

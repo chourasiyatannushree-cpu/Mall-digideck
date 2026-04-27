@@ -1,16 +1,155 @@
-# React + Vite
+# Dubai Mall Digideck
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium interactive sales presentation deck built for one of the world's largest shopping destinations — **Dubai Mall**.
 
-Currently, two official plugins are available:
+This project is designed as a modern browser-based pitch deck for prospective tenants, sponsors, and event partners. It combines cinematic visuals, luxury-inspired UI, smooth animations, and business storytelling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add your deployed Vercel link here:
 
-## Expanding the ESLint configuration
+```text
+https://mall-digideck-vf77-656ppeeyj-chourasiyatannushree-cpus-projects.vercel.app
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## GitHub Repository
+
+Add your GitHub repo link here:
+
+```text
+https://github.com/
+```
+
+---
+
+## Project Objective
+
+Traditional mall sales presentations rely on static PDFs, spreadsheets, and disconnected media.
+
+This project transforms that process into an immersive interactive experience that helps viewers immediately understand:
+
+* Scale of the property
+* Visitor traffic potential
+* Luxury retail opportunity
+* Sponsorship value
+* Event booking potential
+
+---
+
+## Features
+
+* Cinematic hero video section
+* Smooth scroll storytelling
+* Premium luxury-inspired UI
+* Responsive design
+* Framer Motion animations
+* Leasing / Events / Sponsorship focused sections
+* High-conversion CTA footer
+* Fast Vite build performance
+
+---
+
+## Sections Included
+
+1. Hero Introduction
+2. Why Dubai Mall
+3. Retail Powerhouse
+4. Luxury Capital
+5. Dining Destination
+6. Entertainment Zone
+7. Events Platform
+8. Final Call-To-Action
+
+---
+
+## Tech Stack
+
+* React.js
+* Vite
+* Tailwind CSS
+* Framer Motion
+* JavaScript (ES6+)
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/dubai-mall-digideck.git
+```
+
+Move into project folder:
+
+```bash
+cd dubai-mall-digideck
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## Deployment
+
+Recommended platforms:
+
+* Vercel
+* Netlify
+
+---
+
+## AI Usage
+
+AI tools were used for:
+
+* UI ideation
+* Content structuring
+* Code acceleration
+* Section storytelling
+* Design refinement
+
+---
+
+## Future Improvements
+
+* Real analytics dashboard
+* Dynamic leasing inquiry forms
+* Multi-language support
+* Video transitions
+* CMS integration
+* Interactive map of mall zones
+
+---
+
+## Author
+
+Tannushree Chourasiya
+
+---
+
+## License
+
+This project is for assessment / portfolio purposes.
